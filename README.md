@@ -189,7 +189,7 @@ An IoT-based project designed to detect alcohol levels and improve safety measur
 
 <p align="left">
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/priya-priyadharshini
 
 📧 Email: [priyajaganathan1974@gmail.com](mailto:your-email@example.com)
 
